@@ -1,3 +1,5 @@
+**DEPRECATED**: this project has been merged with the main [Wren:DS project](https://github.com/WrenSecurity/wrends/)
+
 OpenDJ Packages
 
 This Maven project contains OpenDJ packages.
